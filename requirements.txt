@@ -1,0 +1,8 @@
+albumentations==2.0.8
+kagglehub==1.0.0
+opencv-python==4.13.0.92
+pandas==3.0.2
+timm==1.0.26
+torch==2.3.1
+torchtext==0.18.0
+torchvision==0.18.1
