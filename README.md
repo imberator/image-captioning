@@ -47,4 +47,4 @@ python evaluate.py
 
 ## Configuration
 
-All hyperparameters are in `config.py`:
+All hyperparameters are in `config.py`
