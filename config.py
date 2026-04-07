@@ -11,6 +11,6 @@ dropout = 0.1
 
 # Training
 batch_size = 64
-num_epochs = 1
+num_epochs = 20
 learning_rate = 3e-4
 max_grad_norm = 1.0
